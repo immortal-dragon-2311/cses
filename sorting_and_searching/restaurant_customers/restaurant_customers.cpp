@@ -9,9 +9,6 @@ int main() {
     cin.tie(nullptr);
     vector<pair<int, int>> a;
 
-    /*
-    n - number of customers
-    */
    int n;
    cin>> n;
 
